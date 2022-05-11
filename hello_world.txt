@@ -1,1 +1,2 @@
 Testing for Odin
+Testing adding commit message through VS code
